@@ -2,7 +2,7 @@
 
 This is the Java application used in the DevOps Diploma @ CCT College.
 
-## Quickstart
+## Quickstart 
 
 No configuration. In order to run the app we have 2 options:
 ```
